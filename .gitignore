@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+train/
+test/
+
+*.npy
+*.pt
+*.pth
+*.ckpt
+
+.env
